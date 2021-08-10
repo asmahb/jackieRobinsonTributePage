@@ -4,16 +4,49 @@
 
 .admire{
     font-family: 'STIX Two Math', serif;
+    padding:15px;
+    margin: 25px;
 }
 
 .paragraph{
     font-family: 'STIX Two Math', serif;
-    padding:15px
+    padding:15px;
+    margin: 25px;
 }
 
 .other{
     font-family: 'STIX Two Math', serif;
+    padding:15px;
+    margin: 25px;
 }
 body{
-    background-color: pink;
+    background-color: lightgray;
+}
+#pic{
+    padding: 10px;
+    margin: 40px;
+}
+#title{
+    text-align: center;
+    color:whitesmoke;
+    text-decoration:underline;
+}
+#titleTwo{
+    text-align: center;
+    color:whitesmoke;
+}
+#tableTitle{
+    text-align: center;
+    color:white;
+    text-decoration: underline;
+}
+.table{
+    padding: 10px;
+    margin: 65px;
+    border-style: dashed;
+    border-color: burlywood;
+}
+#carouselExampleControls{
+    padding:50px;
+    margin: 10px;
 }
